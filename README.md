@@ -1,2 +1,2 @@
 # skllrack-informer
-notifies any new skllrack tests
+notifies any new skillrack tests
